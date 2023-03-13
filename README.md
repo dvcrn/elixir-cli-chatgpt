@@ -2,9 +2,11 @@
 
 Mini-ChatGPT implemented in Elixir GenServer with OpenAI APIs
 
-This project is the code for the writeup at XXX, but you can use it as is as well :) 
+![screenshot](./screenshot.png)
 
-Feel free to suggest features and submit pull requests if you want to improve this application
+This project is the code for the writeup at XXX, but you can use it as is as well :)
+
+Feel free to suggest features and submit pull requests if you want to improve this application and find this useful
 
 ## Usage
 
